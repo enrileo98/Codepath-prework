@@ -39,23 +39,23 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-(![work done](https://user-images.githubusercontent.com/101654179/161099447-c654a6ad-d8a5-4060-873f-3c0ed0a29524.gif)
+![work done](https://user-images.githubusercontent.com/101654179/161099447-c654a6ad-d8a5-4060-873f-3c0ed0a29524.gif)
 ![](gif2-link-here)
 ![](gif3-link-here)
 ![](gif4-link-here)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[YOUR ANSWER HERE]
+[I only used the websites and information that codepath listed for me, I had CSS and HTML classes in the past, so it was not new for me, only a reminder of how those languages worked.]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+[One of the things that were new for me were how to create a GitHub repository and how to put together the readme file and gif in one place. These terms were new for me because I had never used GitHub before.  Commit to main and merge projects, exporting project from Glitch was something challenging. With the help of videos from code path and external sources I managed to complete all the requirements. Putting the logic of the project is very important. It was my first-time using JavaScript, but It was very similar to C++, java, and python. So, working with it was not an issue. I had trouble with some lines of code and how some functions were able to do what they did.  The swap function and the cue functions were the ones that gave me hard time, but with the small description I was able to understand a little bit more of how they work. With more practice and more work, I will improve my skills in this subject. Also, working with three languages at the same time was something I’m not used to, but it was an exciting experience to get hands on in what’s next for this internship.]
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+[I would like to know more about JavaScript, it was very easy to understand because I have previous knowledge in programming, but I would like more practice with it and understand how it really works to make a website more interactive. Also, I would like to know more about databases and how to put a website live for everyone to see. I really want to obtain experience coding in real time, life situations for this way, when I graduate from my major I will have the necessary requirements to obtain a good job and to develop my ideas and dreams to help people. ]
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+[I would like to add levels or maybe different difficulties to give a challenge to new players, add a scoreboard to compare online players' attempts, I would like to add more buttons and funny sounds to distract skilled players to fail and add animations to make the website prettier, let the players create or upload new sequences or custom levels for this way to everyone be a part of this project, add social media to make my name and my future projects be well known, the possibility to add Spotify or a similar streaming based app to play music while playing the game.]
 
 
 
